@@ -69,7 +69,7 @@
   width: 1px;
 }
 h3 {
-  opacity: 0.7;
+  /* opacity: 0.7; */
   padding: 4px;
 }
 h6 {
@@ -247,17 +247,18 @@ h5 {
 }
 .subtitle {
   color: #000;
-  font-weight: 400;
+  font-weight: 600;
   margin: 70px 250px 5px;
 }
 .content {
   font-weight: 360;
 }
+
 .content,
 .description {
   color: rgba(0, 0, 0, 0.7);
   line-height: 150%;
-  margin-left: 250px;
+  margin-left: 265px;
   margin-right: 250px;
 }
 .description {
@@ -272,6 +273,6 @@ hr {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 67%;
+  width: 65%;
 }
 /*# sourceMappingURL=main.af14457b.css.map*/
